@@ -1,4 +1,4 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+### —͟͟͞͞𝐄𝐌𝐎𝐍 𝐁𝐎𝐒𝐒 𝐁𝐎𝐓    🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
@@ -9,7 +9,7 @@
 
 <!-- Image -->
 <p align="center">
-  <img src="https://i.imgur.com/u7VnPzH.png" width="300">
+  <img src="https://imgur.com/a/ST5OcCL" width="300">
 </p>
 
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
@@ -17,13 +17,13 @@
 
   <!-- SHAHADAT CHAT BOT -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    EMON BOSD BOT
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By EMON BOSS
   </span>
 
 </p>
@@ -84,10 +84,10 @@ jobs:
       run: npm install
 
     # Step to run the bot with the correct port
-    - name: Start the bot
+    - name: emon boss bot
       env:
         PORT: 8080
-      run: npm start
+      run: npm emon
 ```
 
 ___
@@ -158,15 +158,15 @@ ___
 
 ## 👨‍💻 ABOUT THE DEVELOPER
 
-**Name:** `SHAHADAT ISLAM`  
-**Nice Name:** `SA HU`  
-**Profession:** `STUDENT & CHATBOT DEVELOPER`  
+**Name:** `EMON BOSS`  
+**Nice Name:** `BOT`  
+**Profession:** `EMON & CHATBOT DEVELOPER`  
 **Location:** `KHAGRACHARI, BANGLADESH`
 
 #### 📞 CONTACT
-- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801882333052)
-- **Facebook:** [Profile Me](https://facebook.com/100044713412032)
-- **Messenger:** [Message Me](https://m.me/100044713412032)
+- **WhatsApp:** [WhatsApp Me](https://wa.me/+8801796565324)
+- **Facebook:** [Profile Me](https://facebook.com/61589357111143)
+- **Messenger:** [Message Me](https://m.me/61589357111143)
 
 #### 🚀 APPROACH
 - 💻 Copy-paste techniques with deep customizations  
@@ -183,10 +183,10 @@ If you need any help, you can contact the admin.
 Please do not disturb the admin unless you have a special need. Thank you! 
 
 <p align="center">
-  <a href="https://wa.me/+8801882333052?text=Assalamualaikum%20Admin%20SHAHADAT%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
+  <a href="https://wa.me/+8801796565324?text=Assalamualaikum%20Admin%20EMON%20SAHU%20Need%20Help%20Please%20Brother%20🫶">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://m.me/100044713412032">
+  <a href="https://m.me/61589357111143">
     <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
   </a>
 </p>
@@ -202,7 +202,7 @@ Please do not disturb the admin unless you have a special need. Thank you!
 
 __________
 
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing 𝗘𝗠𝗢𝗡 𝗕𝗢𝗦𝗦 𝗕𝗼𝘁!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
@@ -210,8 +210,8 @@ __________
 
 <p align="center">
   <a href="https://github.com/shahadat-sahu"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801882333052"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100044713412032"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
+  <a href="https://wa.me/+8801796565324"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
+  <a href="https://facebook.com/61589357111143"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
   <a href="https://t.me/cyber_bot01"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
   <a href="https://youtube.com/@scb-community"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"></a>
 </p>
