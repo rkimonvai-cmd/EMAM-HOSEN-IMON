@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "emon-boss-bot",
   "version": "2.0.0",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By EMON BOSS",
   "main": "Main.js",
   "engines": {
     "node": "20.x",
@@ -25,9 +25,9 @@
     "shadat",
     "ullash",
     "shahadat sahu",
-    "shahadat chat bot"
+    "emon boss bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "EMON BOSS",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
