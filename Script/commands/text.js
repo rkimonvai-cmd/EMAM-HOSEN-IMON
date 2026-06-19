@@ -5,7 +5,7 @@ module.exports.config = {
   name: "text",
   version: "1.1.0",
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
+  credits: "EMON BOSS",
   description: "Send repeated text messages",
   commandCategory: "utility",
   usages: "[count] [text]",
