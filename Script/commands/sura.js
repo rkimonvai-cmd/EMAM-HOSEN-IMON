@@ -3,7 +3,7 @@ module.exports.config = {
   name: "sura",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Islamick Chat",
+  credits: "EMON BOSSt",
   description: "প্রিয় মুসলিম ভাই ও বন তুমাদের জন্য সূরা নিয়ে আসলাম",
   commandCategory: "M H BD",
   usages: "sura",
